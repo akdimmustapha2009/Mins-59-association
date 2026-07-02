@@ -284,6 +284,12 @@ ul { list-style: none; }
   display: flex; align-items: center; justify-content: center;
   padding: 40px;
 }
+.visual-photo {
+  width: 100%;
+  max-width: 480px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
 
 /* ===== Calculator ===== */
 .calculator {
