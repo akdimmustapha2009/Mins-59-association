@@ -597,7 +597,7 @@ ul { list-style: none; }
 .site-footer { background: var(--dark); color: rgba(255,255,255,0.85); padding-top: 60px; }
 .footer-inner {
   display: grid;
-  grid-template-columns: 1.6fr 1fr 1fr;
+  grid-template-columns: 1.6fr 1fr;
   gap: 40px;
   padding-bottom: 40px;
 }
