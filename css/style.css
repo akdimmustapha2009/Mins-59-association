@@ -92,7 +92,7 @@ ul { list-style: none; }
 .logo-text {
   font-size: 1.3rem;
   font-weight: 800;
-  color: var(--primary-dark);
+  color: var(--text);
   letter-spacing: 0.3px;
 }
 .logo-text em { color: var(--secondary); font-style: normal; }

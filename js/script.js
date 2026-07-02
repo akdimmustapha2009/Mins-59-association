@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () => {
     );
   });
 
-  /* ===== "Rejoindre Min's 59" pre-fills contact subject ===== */
+  /* ===== "Rejoindre Asso Mins 59" pre-fills contact subject ===== */
   const joinBtn = document.getElementById('joinBtn');
   joinBtn.addEventListener('click', () => {
     document.getElementById('subject').value = 'Devenir bénévole';
